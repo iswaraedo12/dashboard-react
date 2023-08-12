@@ -1,5 +1,4 @@
 {
-  "homepage": "https://iswaraedo12.github.io/dashboard-react",
   "name": "dashboard",
   "version": "1.2.3",
   "description": "Dashboard",
@@ -23,6 +22,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-dashboard-react/issues"
   },
+  "homepage": "https://demos.creative-tim.com/auth/login",
   "scripts": {
     "start": "set PORT=3001 && react-scripts start",
     "build": "react-scripts build",
